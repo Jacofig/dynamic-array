@@ -1,6 +1,3 @@
-﻿//ALGO2 IS1 222A LAB02
-//Jakub Figiel
-//fj55719@zut.edu.pl
 #include <iostream>
 #include <string>
 #include <sstream>
